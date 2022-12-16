@@ -1,0 +1,39 @@
+html {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+    max-width: 360px;
+    max-height: 700px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 15px;
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 0px 10px 15px 0px #C1C1C1;
+}
+
+.qr-code {
+    border-radius: 1em;
+    margin: auto;
+    width: 100%;
+}
+
+
+.content {
+    padding: 0 20px;
+}
+
+.title {
+    font-family: Outfit;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.subtitle {
+    font-family: Outfit;
+    text-align: center;
+    font-size: 15;
+    color: #C1C1C1;
+}
